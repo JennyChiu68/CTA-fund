@@ -1,0 +1,14 @@
+:root {
+ --data-app-layout-intent:user-requested;
+ --data-app-content-width:430px;
+ color-scheme: dark;
+ --adaptive-theme: 0;
+ --font-sans-default: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif;
+ --font-sans: var(--font-sans-default);
+ --background:#101217;--surface:#171a21;--surface-raised:#20242c;--muted:#20242c;--control:#1d2129;--control-hover:#2b3039;--interaction-hover:#252933;--interaction-active:#34302a;
+ --text:#f1f0ee;--secondary:#989ca8;--border:#2b2f38;--border-strong:#464a54;--accent:#dfc28b;--positive:#ed9a8e;--negative:#7bbeb2;
+ --chart-1:#dfc28b;--chart-2:#8baff0;--chart-3:#7bbeb2;--chart-4:#dd927e;--chart-5:#a396d6;--chart-6:#a6afb9;--chart-7:#c6a77b;--chart-8:#8396a9;
+ --chart-neutral-fill:#222630;--ranked-list-fill:#363125;--ranked-list-fill-hover:#47402e;--movement-positive:#ed9a8e;--movement-negative:#7bbeb2;--movement-total:#aaa;
+ --card-radius:12px;--data-card-radius:12px;--data-card-background:#171a21;--control-radius:7px;--mark-radius:3;--card-shadow:none;--shadow:0 14px 45px #0007;
+ --dashboard-background:#101217;--data-app-chrome-background:#101217;--data-app-chrome-text:#f1f0ee;
+}
